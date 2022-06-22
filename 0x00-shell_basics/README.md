@@ -8,3 +8,4 @@
 8. mv moves a file or directory to another directory or renames the file or directory
 9. rm deletes a file from a directory
 10. rm -r deletes a non-empty directory alomg with its content
+cd - returns working directory to previous directory
