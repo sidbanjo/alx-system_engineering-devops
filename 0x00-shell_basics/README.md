@@ -5,3 +5,4 @@
 5. ls -la lists content of directory (including hidden files that start with .) in long format
 6. ls -n like ls -l, but lists user and group IDs as numbers
 7. mkdir creates a new directory
+8. mv moves a file or directory to another directory or renames the file or directory
