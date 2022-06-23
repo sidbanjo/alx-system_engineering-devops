@@ -1,0 +1,2 @@
+#!/bin/baah
+chmod -R a+X ./
