@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -Sax1 *.gif | tr -d ".gif"
