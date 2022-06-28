@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f="seq 2 2 $(wc -l)"
+paste - - | cut -f 1
