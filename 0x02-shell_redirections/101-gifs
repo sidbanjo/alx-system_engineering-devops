@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Sax1 *.gif | tr -d ".gif"
+find . -name "*.gif" -typef -printf "%f\n" | rev | cut -d . -f2 | rev | LC_ALL=C sort -f
